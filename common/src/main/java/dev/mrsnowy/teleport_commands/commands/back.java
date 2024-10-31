@@ -1,5 +1,5 @@
 package dev.mrsnowy.teleport_commands.commands;
-
+// HJAHSDHJASKJDHASKJDHASKJDHASKJHDKJASh
 import com.mojang.brigadier.arguments.BoolArgumentType;
 import com.mojang.datafixers.util.Pair;
 import dev.mrsnowy.teleport_commands.TeleportCommands;
